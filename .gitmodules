@@ -1,0 +1,6 @@
+[submodule "DRTK"]
+	path = DRTK
+	url = https://github.com/DR08/DRTK
+[submodule "TestFiles"]
+	path = TestFiles
+	url = https://github.com/DR08/TestFiles
